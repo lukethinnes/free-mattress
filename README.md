@@ -35,6 +35,6 @@ As this app is still in development, there are a few features I would love to in
 * Other StyleSheet oriented effects and accessories!
 
 ## Contact
-Created by [Luke Thinnes](https://www.linkedin.com/in/luke-thinnes-37a2a014b/) 
+Created by [Luke Thinnes](https://www.linkedin.com/in/luke-thinnes-37a2a014b/). Feel free to reach out with any questions.
 
 I hope you enjoy!
