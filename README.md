@@ -19,6 +19,8 @@ After cloning the repository, run the following commands to initialize this appl
  $ npm install
  $ npm start
  ```
+ In addition to Expo CLI, you will also need Xcode or an adjacent simulator in order to run the iOS version of this application.
+ This app was created closest to the specifications of the iPhone 11 Pro Max.
 
 ## Inspiration
 
