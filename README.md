@@ -14,7 +14,7 @@ This iOS app is designed to help you find a free mattress in Denver, Colorado. I
 
 ## Setup and Activation
 
-After cloning the repository, run the following commands to initialize this application:
+After cloning the master branch of this repository, run the following commands to initialize this application:
 
 ```
  $ npm install
