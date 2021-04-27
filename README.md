@@ -4,7 +4,7 @@
 
 ## Info
 
-This iOS app is designed to help you find a free mattress in Denver, Colorado. It serves as a database where images, blurbs and intersections are given pertaining to a free mattress in hopes that they will be made use of, or at least properly disposed of! It utilizes the React Native framework for mobile development, and incorporates the React Navigation library to switch page appearences while still remaining a single page application.
+This iOS app is designed to help you find a free mattress in Denver, Colorado. It serves as a database where images, blurbs and intersections are given pertaining to a free mattress in hopes that they will be made use of, or at least properly disposed of! It utilizes the React Native framework for mobile development, and incorporates the React Navigation library to switch page appearances while still remaining a single page application.
 
 ## Technologies
 * React Native
